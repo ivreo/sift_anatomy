@@ -8,7 +8,7 @@ This C ANSI source code is related to the article
     [1] "Anatomy of the SIFT Method."
         I. Rey Otero  and  M. Delbracio
         Image Processing Online, 2013.
-        http://www.ipol.im/pub/algo/rd_anatomy_sift/
+        http://dx.doi.org/10.5201/ipol.2014.82
 
 An online demo facility can be found at http://dx.doi.org/10.5201/ipol.2014.82
 
